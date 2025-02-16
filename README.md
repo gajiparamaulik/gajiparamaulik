@@ -39,8 +39,4 @@ I'm a **Software Developer** passionate about crafting scalable, efficient, and 
 ## 📫 Let's Connect!
 - 🌐 [Portfolio](#)  
 - 💼 [LinkedIn](#)  
-- 📧 [Email](mailto:your.email@example.com)
-
----
-
-✨ _"Committed to delivering exceptional web solutions that make an impact."_ ✨
+- 📧 [Email](mailto:maulikgajipara356@gmail.com)

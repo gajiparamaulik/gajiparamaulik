@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Maulik Gajipara
+# 👋 Hi There! I'm Maulik Gajipara
 
 Welcome to my GitHub profile!  
 I'm a **Software Developer** passionate about crafting scalable, efficient, and user-centric web applications. I specialize in **front-end development with Vue.js** and also deliver robust **full-stack solutions** using Laravel.
